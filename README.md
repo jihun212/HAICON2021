@@ -22,7 +22,9 @@
 3. Private score : 0.53148
 
 ## 5. 시도한 방법론 (최종 사용X)
-
+1. LSTM AutoEncoder
+2. GramianAngularField를 이용해서 시계열 이미지를 이미지로 변환 후 2D CNN -> 용량이 너무 커서 후보 탈락
+3. spectrogram, wavelet을 활용한 time series analysis -> 1초의 데이터양이 너무 적어 실패
 
 
 ## 6. Path 정보
