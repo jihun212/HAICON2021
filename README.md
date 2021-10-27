@@ -1,5 +1,17 @@
 # 산업제어시스템 보안위협 탐지 AI 경진대회
 > 산업제어시스템 보안위협 탐지
+
+#### 참고문헌
+- 본 대회 데이터셋(HAI 21.03, HAI 20.07), HAICon 2020, 평가도구를 활용한 논문 작성 시, 인용 문헌은 다음과 같습니다.
+- HAI 21.03, HAICon 2020
+> Hyeok-ki Shin, Woomyo Lee, Jeong-Han Yun, and Byung-Gil Min, "Two ICS Security Datasets and Anomaly Detection Contest on the HIL-based Augmented ICS Testbed", CSET'21: Workshop on Cyber Security Experimentation and Test, 2021
+- HAI 20.07
+> Hyeok-ki Shin, Woomyo Lee, Jeong-Han Yun, and Hyoungchun Kim, "HAI 1.0: HIL-based Augmented ICS Security Dataset", CSET'20: Workshop on Cyber Security Experimentation and Test, 2020. 
+- TaPR
+> Won-seok Hwang, Jeong-Han Yun, Jonguk Kim, and Hyoungchun Kim, "Time-Series Aware Precision and Recall for Anomaly Detection - Considering Variety of Detection Result and Addressing Ambiguous Labeling", CIKM'19: Proceedings of the 28th ACM International Conference on Information and Knowledge Management, 2019.
+
+※ 대회 평가도구(eTaPR)는 TaPR의 업그레이드 버전입니다. 
+
 ### 팀
 - **최원석 교수님**
 - **이경연** : 한성대학교 사이버보안트랙 학부생
