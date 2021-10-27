@@ -28,6 +28,18 @@
 
 
 ## 6. Path 정보
+Data Path
+  traing data : ./data/train/
+  test data : ./data/test/
+  validation data : ./data/validation/
+Model Path
+  model 저장 경로 : ./data/{model_name}.model
+Submission Path
+  submission 저장 경로 : ./data/
+  sample path : ./data/sample_submission.csv
+  최종제출 submisstion : ./data/ MODEL_NAME + '_threshold_' + str(THRESHOLD) + '_submissionVer4.csv'
+TaPR Lib path
+  whl file : ./eTaPR-21.8-py3-none-any.whl
 
 
 ## 7. Library 버전
